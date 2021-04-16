@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">scrollView</string>
+    <string name="news">news</string>
+    <string name="button_call">CALL NOW</string>
+    <string name="servise_language">Language Courses</string>
+    <string name="servis_camp">Summer Camp</string>
+    <string name="app_subtitle">School of foreign languages</string>
+    <string name="uslugi">Servise</string>
+</resources>

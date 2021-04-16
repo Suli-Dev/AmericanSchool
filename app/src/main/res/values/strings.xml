@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">scrollView</string>
+
+
+    <string name="american_school" translatable="false">American School</string>
+
+
+    <string name="app_subtitle">школа иностранных языков</string>
+
+
+    <string name="uslugi">Услуги:</string>
+    <string name="news">Новости:</string>
+
+
+    <string name="servise_efl" translatable="false">toEFL</string>
+    <string name="servis_camp">Летний лагерь</string>
+    <string name="servise_language">Языковые курсы</string>
+    <string name="servise_talking" translatable="false">Talking Club</string>
+    <string name="button_call">ПОЗВОНИТЬ</string>
+
+    <string name="servise_langugae_descript" translatable="false">Описание языковых курсов</string>
+    <string name="servise_camp_descript" translatable="false">Описание летнего лагеря</string>
+    <string name="servise_talking_descript" translatable="false">Описание Talking Club</string>
+    <string name="servise_toefl_descript" translatable="false">Описание toEFL услуги</string>
+    <string name="full_info">Открываем набор на ВСЕ УРОВНИ:\n ABC,\n BASIC,\n ELEMENTARY,\n BEGINNER -INTERMEDIATE,\n UPPER -INTERMEDIATE,\n TOEFL (IBT, PBT, IELTS)\n ⠀\n ⏰На любое время\n 07:40\n 09:00\n 10:20\n 11:40\n 13:40\n 15:00\n 16:20\n 17:40\n 19:00\n ⠀\n ❓Как записаться?\n ⠀\n 1️⃣Позвонить на 0(312)908-459 и записаться.\n Так же вы можете пройти тест онлайн и узнать свой уровень.\n \n 2️⃣Написать ФИО, возраст, уровень, время и отправить данные на WhatsApp 0(509)908-459 (можете пройти по ссылке в описании профиля)\n ⠀\n 🔺Наши менеджеры заранее Вас зарегистрируют\n ⠀\n 3️⃣ Приходите 15 февраля 2021\n к нам офис на Юнусалиева, 160\n 4️⃣ Приступаете к учебе\n ⠀\n ✅При себе иметь ручку, тетрадь, маску и оплату в размере 2500 сом./n ⠀/n *филиал на Ахунбаева переезжает в новый комфортабельный офис\n</string>
+
+
+</resources>
