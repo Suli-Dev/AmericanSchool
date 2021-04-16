@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
     private ConstraintLayout serviceEfl;
     private TextView callBtn;
     private ConstraintLayout banner;
+    int x = 5;
+
 
 
     @Override
