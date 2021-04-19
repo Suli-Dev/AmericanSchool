@@ -10,16 +10,13 @@ import android.view.View;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    private ConstraintLayout serviceLanguage;
-    private ConstraintLayout serviceCamp;
-    private ConstraintLayout serviceTalking;
-    private ConstraintLayout serviceEfl;
-    private TextView callBtn;
+//    private ConstraintLayout serviceLanguage;
+//    private ConstraintLayout serviceCamp;
+//    private ConstraintLayout serviceTalking;
+//    private ConstraintLayout serviceEfl;
+//    private TextView callBtn;
     private ConstraintLayout banner;
     int x = 5;
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
